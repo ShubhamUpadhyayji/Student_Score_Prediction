@@ -18,9 +18,8 @@ st.sidebar.markdown('''
             GitHub Repo for the [App](https://github.com/Shubham12356789/Student_SC_Prediction/blob/main/index.py)
     ''')
 
-st.dataframe(data)
+st.dataframe(student_info)
 
-st.dataframe(s_data)
 
 
 st.write('''
