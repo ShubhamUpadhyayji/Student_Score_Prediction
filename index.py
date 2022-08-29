@@ -18,10 +18,6 @@ st.sidebar.markdown('''
             GitHub Repo for the [App](https://github.com/Shubham12356789/Student_SC_Prediction/blob/main/index.py)
     ''')
 
-st.table(s_data)
-
-
-
 st.write('''
         **Assuming the study hours to be maximum 10 hours.**
         ''')
