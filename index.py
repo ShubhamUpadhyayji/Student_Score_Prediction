@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 from sklearn.linear_model import LinearRegression
-import PIL import Image
+from PIL import Image
 
 
 st.write("""
@@ -14,8 +14,8 @@ image=Image.open("college.png")
 st.image(image,use_column_width=True)
 
 st.sidebar.markdown('''
-            By Kuldeep Sharma aka [SoleCodr](https://github.com/SoleCodr) \n
-            GitHub Repo for the [App](https://github.com/SoleCodr/marks-prediction-app)
+            By Shubham Upadhyay [SoleCodr](https://github.com/Shubham12356789) \n
+            GitHub Repo for the [App](https://github.com/Shubham12356789/Student_SC_Prediction/blob/main/index.py)
     ''')
 st.write('''
         **Assuming the study hours to be maximum 10 hours.**
@@ -46,4 +46,5 @@ if pred > 9.97:
 else:
     st.button("Predict")
     st.success("The Predicted Percentage is {}".format(prediction))
+ 
  
