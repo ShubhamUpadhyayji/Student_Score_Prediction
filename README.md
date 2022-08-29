@@ -23,3 +23,6 @@ This system aims to predict student's marks using linear regression. The idea be
 6)Model Building
 
 7)Deploy Model
+
+
+WEB_APP_LINK : https://student-marks-predictions-ml.herokuapp.com/
