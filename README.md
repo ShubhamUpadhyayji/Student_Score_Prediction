@@ -1,3 +1,8 @@
+![college](https://user-images.githubusercontent.com/98752757/187233711-764f7cec-f653-42fd-a125-c54f79fce466.png)
+
+
+
+
 **Objectives**
 
 This system aims to predict student's marks using linear regression. The idea behind this analysis is to predict the marks of students by their studying hours.Through this project we can determine.
