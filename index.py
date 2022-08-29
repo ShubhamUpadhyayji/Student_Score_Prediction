@@ -15,7 +15,7 @@ st.image(image,use_column_width=True)
 
 st.sidebar.markdown('''
             By Shubham Upadhyay [SoleCodr](https://github.com/Shubham12356789) \n
-            GitHub Repo for the [App](https://github.com/Shubham12356789/Student_SC_Prediction/blob/main/index.py)
+            GitHub Repo for the [App](https://github.com/Shubham12356789/Student_Score_Prediction)
     ''')
 
 st.write('''
